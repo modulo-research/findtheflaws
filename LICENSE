@@ -1,0 +1,46 @@
+Modified MIT License (with Public Redistribution Requirements)
+
+This dataset was compiled and released by Modulo Research. While Modulo
+Research does not assert exclusive ownership over its contents, it offers this
+work under the modified MIT License terms below.
+
+To the extent permitted by law, Modulo Research does not assert exclusive
+ownership over this dataset. However, Modulo Research retains sufficient rights
+to publish and distribute this work under the terms described below, and to
+require that any public redistribution comply with those terms.
+
+Subject to the conditions below, permission is hereby granted, free of charge,
+to any person obtaining a copy of this dataset and associated documentation or
+code files (collectively, the "Work"), to deal in the Work without restriction,
+including without limitation the rights to use, copy, modify, merge, publish,
+distribute, sublicense, and/or sell copies of the Work, and to permit persons
+to whom the Work is furnished to do so, provided that such actions comply with
+the Public Redistribution Requirements described below.
+
+This permission notice and any accompanying notices of terms or restrictions
+shall be included in all copies or substantial portions of the Work.
+
+THE WORK IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE WORK OR THE USE OR OTHER DEALINGS IN THE
+WORK.
+
+Public Redistribution Requirements
+
+Notwithstanding the permissions granted above, any public redistribution of
+the dataset files provided under this license — such as hosting them on
+publicly accessible websites, repositories, or file-sharing platforms — must
+occur in password-protected archive formats (e.g., ZIP files). The password
+may be made publicly available, including by publishing it in the README file
+of the hosting repository or distribution page, or provided upon request. This
+measure is intended to discourage unintentional inclusion of the dataset in
+large-scale foundation model training corpora.
+
+This requirement does not apply to private sharing or redistribution within
+controlled-access environments, such as internal research groups, academic
+collaborations, or private file transfers. Such private use and redistribution
+remain fully permitted under the same terms as the present License, without
+the Public Redistribution Requirements.
